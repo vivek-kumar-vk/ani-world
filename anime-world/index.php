@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edit this template
+-->
+
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>
+		Ani-World
+	</title>
+</head>
+<body background="image\img0.jpeg" link="#000" alink="#017bf5" vlink="#000">
+		<div class="main" id="home">
+			<br />
+			<h3 align="center">
+				<font face="sans-serif" size="6" color="#2c3e50">ANI-WORLD</font>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<font face="sans" size="4">
+					<a href="#home">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="#">VIEW GALLERY</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="#">SUBSCRIBE</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="#">TEAM</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="login.html">LOGIN</a>
+				</font>
+			</h3>
+		</div>
+		<div>
+			<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br><br><br>
+			<h1 align="center">
+				<font face="sans-serif" color="#2980b9" size="7">
+				Welcome To Ani-World
+				</font>
+			</h1>
+			<h3 align="center">
+				<font face="Lato" color="#000" size="5">
+					Place to see all anime at one place .
+				</font>
+			</h3>
+			<br />
+			
+		</div>
+
+		<!-- portfolio -->
+		<br><br><br><br><br><br><br><br><br><br>
+		<!-- <hr> -->
+		<br><br><br><br><br><br>
+		<div class="portfolio">
+			<hr color="#fff" width="20%">
+				<p align="center"><font face="sans-serif" color="#2ecc17" size="5.5">CATALOG</font></p>
+			<hr color="#fff" width="20%">
+			<br><br>
+			<table align="center" cellspacing="10" cellpadding="15">
+				<tr>
+					<td>
+						<img src="image/img1.jpeg" height="200" width="300">
+					</td>
+					<td>
+						<img src="image/img2.jpeg" height="200" width="300">
+					</td>
+					<td>
+						<img src="image/img3.jpeg" height="200" width="300">
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="image/img4.jpeg" height="200" width="300">
+					</td>
+					<td>
+						<img src="image/img5.jpeg" height="200" width="300">
+					</td>
+					<td>
+						<img src="image/img6.jpeg" height="200" width="300">
+					</td>
+				</tr>
+				<tr>
+					<th colspan="3" rowspan="2"><a href="#">VIEW MORE</a></th>
+				</tr>
+			</table>
+		</div>
+
+		<!-- contact us -->
+
+		<br><br><br><br><br><br><br><br><br><br>
+		<div class="contact">
+			<hr color="#000" width="20%">
+				<p align="center"><font face="sans-serif" color="#017bf5" size="5.5">CONTACT US</font></p>
+			<hr color="#000" width="20%">
+			<br><br>
+			<form name="f1" id="contact-form">
+				<table align="center" cellpadding="5" cellspacing="12" border="1" height="200">
+					<tr>
+						<td>
+							<input type="text" name="first_name" placeholder="First Name" required="required" />
+						</td>
+						<td>
+							<input type="text" name="Last_name" placeholder="Last Name" required="required" />
+						</td>
+					</tr>
+					<tr>
+						<td><input type="email" name="email" placeholder="Email" required="required" /></td>
+						<td><input type="text" name="subject" placeholder="Subject" required="required" /></td>
+					</tr>
+					<tr>
+						<th colspan="2">
+							<textarea placeholder="Enter Message" required=""></textarea>
+						</th>
+					</tr>
+					<tr>
+						<th colspan="2">
+							<input type="submit" name="contact-submit" value="SEND">
+						</th>
+					</tr>
+				</table>
+			</form>
+		</div>
+		<br><br><br><br><br>
+		<hr color="#000">
+		<p align="center">
+			<a href="index.html"><font face="sans-serif" size="7" color="#f00">ANI-WORLD</font></a>
+		</p>
+		<p align="center">
+			<font face="sans-serif" size="4" color="#000">
+				EASY AND FREE TO USE ANIME WEBSITE.
+			</font>
+		</p>
+</body>
+</html>
